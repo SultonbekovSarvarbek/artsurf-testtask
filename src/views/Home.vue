@@ -22,8 +22,7 @@ export default {
   data() {
     return {
       currentPage: "",
-      count: 2,
-      currentPageNum: ""
+      count: 2
     };
   },
   async created() {
