@@ -21,7 +21,6 @@ export default {
   },
   data() {
     return {
-      currentPage: "",
       count: 2
     };
   },
